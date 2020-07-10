@@ -1,4 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5hf3qrEDSM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
