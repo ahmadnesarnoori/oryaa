@@ -1,0 +1,117 @@
+
+<style type="text/css">
+.home-image {
+max-width: 250px;
+border-radius: 220%;
+}
+
+body {
+    background-color: hsl(200, 20%, 92%);
+}
+
+</style>
+
+<style type="text/css">
+.search-bar {
+width: 230px;
+box-sizing: border-box;
+border: 2px solid #ccc;
+border-radius: 33px;
+border-color: hsl(220, 50%, 80%);
+font-size: 14px;
+font-color: blue;
+background-color: white;
+background-image: url('searchicon.png');
+background-position: 10px 10px;
+background-repeat: no-repeat;
+padding: 1px 1px 0px 40px;
+-webkit-transition: width 0.4s ease-in-out;
+transition: width 0.4s ease-in-out;
+outline: none;
+}
+
+input[type=text]:focus {
+}
+</style>
+
+<style type="text/css">
+.profile-image {
+max-width: 100px;
+border: 3px;
+border-radius: 100%;
+}
+
+.screen-only
+
+{
+display: block;
+}
+.mobile-only
+{
+display: none;
+}
+@media screen and (max-width: 480px)
+{
+.screen-only
+{
+display: none;
+}
+.mobile-only
+{
+display: block;
+}
+}
+
+</style>
+
+<style>
+.item{position:relative}
+img.playOverlay{
+   position:absolute;
+   top: 90%;
+   left: 22%;
+   transform: translate(-50%, -65%);
+}
+
+<style>
+.item{position:relative}
+img.playOverlayprofile{
+   position:absolute;
+   top: 0%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.login {
+  background-color: white;
+  border: blue;
+  height: 35px;
+  width: 70px;
+  border: 1px;
+  color: black;
+  font-size: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 1px 1px;
+  cursor: pointer;
+  border-radius: 40px;
+}
+
+.login1 {
+  background-color: white;
+  border: blue;
+  height: 40px;
+  width: 90px;
+  border: 1px;
+  color: black;
+  font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 1px 1px;
+  cursor: pointer;
+  border-radius: 40px;
+}
+
+</style>
